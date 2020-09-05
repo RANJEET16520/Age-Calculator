@@ -4,7 +4,7 @@
 
 ### Live Demonstraction of object moving
 <p align="center">
-  <img src="https://github.com/RANJEET16520/Moving-Object/tree/master/Images/Age.png"/>
+  <img src="https://github.com/RANJEET16520/Age-Calculator/tree/master/Images/Age.png"/>
 </p>
 
 
