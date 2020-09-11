@@ -1,6 +1,7 @@
 # Age-Calculator
 
 ### Description
+It is a logical age-calculator, in which we can calculate our absolute age by any given day.
 
 ### Example
 <p align="center">
