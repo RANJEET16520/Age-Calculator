@@ -4,7 +4,7 @@
 
 ### Example
 <p align="center">
-  <img src="https://github.com/RANJEET16520/Age-Calculator/tree/master/Images/Age.png"/>
+  <img src="https://github.com/RANJEET16520/Age-Calculator/tree/master/Images/Age.jpg"/>
 </p>
 
 
