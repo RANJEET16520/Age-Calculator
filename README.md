@@ -32,9 +32,9 @@ g++ Calculator.cpp -o a
 
 a
 ```
-
+```
 Enter the Date of Birth and Current date as shown in example and output will be our complete age.
-
+```
 Thank you for visiting.
 
 Don't forget to give a star!!
