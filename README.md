@@ -5,7 +5,7 @@ It is a logical age-calculator, in which we can calculate our absolute age by an
 
 ### Example
 <p align="center">
-  <img src="https://github.com/RANJEET16520/Age-Calculator/tree/master/Images/Age.jpg"/>
+  <img src="https://github.com/RANJEET16520/Age-Calculator/blob/master/Images/Age.jpg"/>
 </p>
 
 
@@ -33,6 +33,7 @@ g++ Calculator.cpp -o a
 a
 ```
 
+Enter the Date of Birth and Current date as shown in example and output will be one's complete age.
 
 Thank you for visiting.
 
