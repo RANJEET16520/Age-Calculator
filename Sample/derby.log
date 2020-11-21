@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Nov 02 21:37:02 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0175-89b6-3a9e-000007776548 
+on database directory D:\trgdg\empdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5387f9e0 
+Loaded from file:/D:/spring-tool-suite-4-4.8.0/sts-4.8.0.RELEASE/db-derby-10.13.1.1-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.2+12-46
+user.dir=D:\f1\Sample
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
